@@ -1,13 +1,12 @@
 # ninja log v5
-5	2056	6992263124607124	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
+5	1379	6992271500382601	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
 3363	5868	6982600104145386	CMakeFiles/TP1.dir/main.cpp.obj	51db057ed329f3de
-4	32	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
 19	2336	6982600068725378	CMakeFiles/DATA_STRUCTURES.dir/data_structures/UFDS.cpp.obj	4e95fdf9fadb66d8
 8	2835	6988505214642598	CMakeFiles/CLOSEST_POINT_PAIR.dir/running_examples/closest_point_pair/ClosestPointPair.cpp.obj	493d38ec0d756c0b
 3035	4988	6988503372751294	CMakeFiles/TP1.dir/TP1/ex2.cpp.obj	821a14a9e0d4ae6
 55	2873	6982600074262702	CMakeFiles/DATA_STRUCTURES.dir/data_structures/Graph.cpp.obj	bebda104397d5731
-4079	5819	6988503381058519	CMakeFiles/TP1.dir/TP1/ex8.cpp.obj	10e811df83ac7f5a
 7	1714	6988503339849578	CMakeFiles/TP1.dir/TP1/TestAux.cpp.obj	1cdf3462ee1fdfbe
+4079	5819	6988503381058519	CMakeFiles/TP1.dir/TP1/ex8.cpp.obj	10e811df83ac7f5a
 3	2941	6982600074982689	CMakeFiles/DATA_STRUCTURES.dir/data_structures/VertexEdge.cpp.obj	7922e9d3c2377ee6
 1411	2583	6992208324459582	CMakeFiles/TP3.dir/TP3/MSTTestAux.cpp.obj	7357f8222d51bcf5
 6	1346	6992223179540961	CMakeFiles/TP2.dir/TP2/ex4.cpp.obj	32203ffbb654f8a8
@@ -30,7 +29,7 @@
 29007	34328	6982600389002624	lib/libgtestd.a	60b1b99e1108d00b
 4259	5846	6988505244828092	CMakeFiles/TP2.dir/TP2/ex7.cpp.obj	b903db9360527272
 34328	34464	6982600390318791	lib/libgtest_maind.a	bf897335245574eb
-2057	6430	6992263168267070	TP3.exe	8e18a3558eac2f62
+1380	5644	6992271542932179	TP3.exe	8e18a3558eac2f62
 34333	35060	6982600396307471	lib/libgmockd.a	1e2ad9118fc439ed
 7739	17916	6988503501776777	TP1.exe	5a1e49973805b80
 16	2324	6988505209416580	CMakeFiles/TP2.dir/main.cpp.obj	e55a9a817355a557
@@ -45,38 +44,83 @@
 5	2060	6992235243082911	CMakeFiles/TP3.dir/TP3/ex2.cpp.obj	71f0079e7915dee1
 2583	4103	6992208339719469	CMakeFiles/TP3.dir/TP3/ex5.cpp.obj	cf567bb097fd55c5
 3909	5120	6992208349889824	CMakeFiles/TP3.dir/TP3/ex7.cpp.obj	a1c9ac1f29afff9b
-5	30	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-6	1287	6992263685365538	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1287	5984	6992263732265529	TP3.exe	8e18a3558eac2f62
-4	55	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-5	1670	6992264556700712	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1670	6029	6992264600210708	TP3.exe	8e18a3558eac2f62
-4	36	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-3	29	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-6	1434	6992265732218684	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1435	5830	6992265776098366	TP3.exe	8e18a3558eac2f62
-4	34	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-5	1486	6992266857727853	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1486	6177	6992266904537844	TP3.exe	8e18a3558eac2f62
-3	45	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-5	1352	6992268098799239	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1353	5754	6992268142728843	TP3.exe	8e18a3558eac2f62
-3	33	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-5	1591	6992269893833152	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1591	6924	6992269946953147	TP3.exe	8e18a3558eac2f62
-3	34	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-5	1385	6992270068927136	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1385	6050	6992270113346772	TP3.exe	8e18a3558eac2f62
-3	29	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-5	1907	6992270361387416	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1907	6952	6992270411737420	TP3.exe	8e18a3558eac2f62
-4	35	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-6	1931	6992270488355262	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1932	7094	6992270539885561	TP3.exe	8e18a3558eac2f62
-6	34	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-3	35	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-5	1379	6992271500382601	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	8811955575b583c3
-1380	5644	6992271542932179	TP3.exe	8e18a3558eac2f62
-21	166	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-4	172	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
-3	132	0	C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	cf2bc90b46ea02e8
+5	25	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+12	258	6992969058341088	CMakeFiles/DATA_STRUCTURES.dir/data_structures/UFDS.cpp.obj	cdb7195ef0c7ecc9
+7	282	6992969058571135	CMakeFiles/DATA_STRUCTURES.dir/data_structures/Heap.cpp.obj	767d54ef31d6e953
+19	523	6992969061001692	CMakeFiles/TP1.dir/TP1/TestAux.cpp.obj	24d46a9de3e0b846
+4	562	6992969061381771	CMakeFiles/DATA_STRUCTURES.dir/data_structures/Graph.cpp.obj	eb9a96232645e076
+9	569	6992969061431781	CMakeFiles/DATA_STRUCTURES.dir/data_structures/VertexEdge.cpp.obj	cd71936eb3d08882
+569	815	6992969063902340	libDATA_STRUCTURES.a	c81ffc4c1b76c56c
+22	1089	6992969066652962	CMakeFiles/TP1.dir/main.cpp.obj	69a47c277ce3d7dc
+15	1363	6992969069383580	CMakeFiles/TP1.dir/TP1/ex1.cpp.obj	a9ee87200d5e5938
+31	1428	6992969069993720	CMakeFiles/TP1.dir/TP1/ex3.cpp.obj	fa25c937198642e1
+26	1434	6992969070033731	CMakeFiles/TP1.dir/TP1/ex2.cpp.obj	3e057fe871c3d7c7
+282	1544	6992969071083967	CMakeFiles/TP1.dir/TP1/ex5.cpp.obj	dd6430887dd941f8
+259	1805	6992969073764572	CMakeFiles/TP1.dir/TP1/ex4.cpp.obj	98daef0fe04e7ebd
+525	1942	6992969075164888	CMakeFiles/TP1.dir/TP1/ex8.cpp.obj	89ab3dcd69c6286f
+815	2140	6992969077155339	CMakeFiles/TP1.dir/TP1/ex9.cpp.obj	777f9d88b945dd7d
+1434	2506	6992969080846184	lib/googletest-master/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	c53b7dbdaefe91d5
+1363	2652	6992969082296501	lib/googletest-master/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	743a1daca8f73536
+563	3031	6992969086057352	CMakeFiles/TP1.dir/TP1/ex6.cpp.obj	99aa7132169403d3
+1090	3250	6992969088247852	lib/googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	106594c6f798e09
+1428	6051	6992969116184168	lib/googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	f9ae4e8355748664
+6053	7386	6992969129647213	lib/libgtestd.a	5c2ffbeff2b6581a
+7389	7443	6992969130237353	lib/libgtest_maind.a	5061da07959ff9f1
+7386	7613	6992969131917737	lib/libgmockd.a	15d529bec2e06b0b
+7613	7670	6992969132497864	lib/libgmock_maind.a	5986d6f8295fd8b6
+7671	10091	6992969156623323	TP1.exe	90536a4a201137c2
+5	25	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+9	990	6992969238671883	CMakeFiles/TP2.dir/main.cpp.obj	fc30053021b1574a
+29	1069	6992969239452057	CMakeFiles/TP2.dir/TP2/ex5.cpp.obj	f8996f860c0dcb7
+18	1078	6992969239532077	CMakeFiles/TP2.dir/TP2/ex1.cpp.obj	d74f7975761af9a1
+15	1082	6992969239542077	CMakeFiles/TP2.dir/TP2/ex3.cpp.obj	4c419d5d3dd6667
+22	1117	6992969239932173	CMakeFiles/TP2.dir/TP2/ex6.cpp.obj	d02b9051d19ea8d4
+25	1135	6992969240102213	CMakeFiles/TP2.dir/TP2/ex4.cpp.obj	b10073779fed654b
+33	1140	6992969240172220	CMakeFiles/TP2.dir/TP2/ex7.cpp.obj	68e9432010a6e7c7
+12	1142	6992969240192225	CMakeFiles/TP2.dir/TP2/ex2.cpp.obj	7410a2e1153652b2
+6	1257	6992969241302490	CMakeFiles/CLOSEST_POINT_PAIR.dir/running_examples/closest_point_pair/ClosestPointPair.cpp.obj	180a387fa2309f9b
+1257	1367	6992969242442738	libCLOSEST_POINT_PAIR.a	d7c0b3d290adb730
+1367	3552	6992969264237668	TP2.exe	f231aaa9d8d55f4c
+7	37	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+7	1181	6992969364513871	CMakeFiles/TP3.dir/main.cpp.obj	c0fc771a8bfa1016
+11	1223	6992969364923963	CMakeFiles/TP3.dir/TP3/MSTTestAux.cpp.obj	6c359a9155ecf14
+29	1289	6992969365604119	CMakeFiles/TP3.dir/TP3/ex7.cpp.obj	b231d1b9069ea370
+15	1305	6992969365764152	CMakeFiles/TP3.dir/TP3/ex1.cpp.obj	f0d5bc7f1ab344a5
+33	1363	6992969366344288	CMakeFiles/TP3.dir/TP3/ex6.cpp.obj	ddc79f472edd5f63
+37	1372	6992969366434307	CMakeFiles/TP3.dir/TP3/ex5.cpp.obj	1f77843c36413887
+25	1389	6992969366594344	CMakeFiles/TP3.dir/TP3/ex4.cpp.obj	e2f4ef10f50109eb
+22	1752	6992969370225160	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+18	1861	6992969371305414	CMakeFiles/TP3.dir/TP3/ex2.cpp.obj	10b00d41d95a95e5
+1861	4134	6992969394000542	TP3.exe	6b68664b0139a42e
+5	25	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+4	1292	6992976491272322	CMakeFiles/TP3.dir/TP3/ex2.cpp.obj	10b00d41d95a95e5
+1292	3539	6992976513697395	TP3.exe	6b68664b0139a42e
+5	24	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+7	1229	6992982082251234	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+4	1329	6992982083251466	CMakeFiles/TP3.dir/TP3/ex2.cpp.obj	10b00d41d95a95e5
+1330	3591	6992982105816574	TP3.exe	6b68664b0139a42e
+6	26	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+6	29	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+5	25	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+4	1195	6992983000699031	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+1196	3464	6992983023334150	TP3.exe	6b68664b0139a42e
+5	25	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+5	1189	6992983432236660	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+1189	3497	6992983455261872	TP3.exe	6b68664b0139a42e
+5	26	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+4	1204	6992983595993710	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+1204	3475	6992983618658837	TP3.exe	6b68664b0139a42e
+5	24	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+4	1208	6992983704928356	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+1209	3544	6992983728213623	TP3.exe	6b68664b0139a42e
+5	24	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+4	1209	6992983842099390	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+1210	3479	6992983864754513	TP3.exe	6b68664b0139a42e
+5	25	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+5	1208	6992984105548994	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+1209	3509	6992984128464175	TP3.exe	6b68664b0139a42e
+5	24	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+5	25	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0
+5	1194	6992985204567625	CMakeFiles/TP3.dir/TP3/ex3.cpp.obj	f48430ddc27254ed
+1194	3513	6992985227652853	TP3.exe	6b68664b0139a42e
+7	29	0	C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/CMakeFiles/cmake.verify_globs	9a0f44e6097431d0

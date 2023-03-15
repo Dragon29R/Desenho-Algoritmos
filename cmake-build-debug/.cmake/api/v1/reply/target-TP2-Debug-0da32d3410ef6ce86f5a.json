@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "TP7.exe"
+			"path" : "TP2.exe"
 		},
 		{
-			"path" : "TP7.pdb"
+			"path" : "TP2.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -30,13 +30,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 32,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 42,
+				"line" : 38,
 				"parent" : 0
 			},
 			{
@@ -76,22 +76,22 @@
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googletest/include"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googletest/include"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googletest"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googletest"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googlemock/include"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googlemock/include"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googlemock"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googlemock"
 				}
 			],
 			"language" : "CXX",
@@ -120,7 +120,11 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "gtest::@ccedbc95f081fc42d06b"
+			"id" : "DATA_STRUCTURES::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "CLOSEST_POINT_PAIR::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,
@@ -132,14 +136,14 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "gtest_main::@ccedbc95f081fc42d06b"
+			"id" : "gtest::@ccedbc95f081fc42d06b"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "DATA_STRUCTURES::@6890427a1f51a3e7e1df"
+			"id" : "gtest_main::@ccedbc95f081fc42d06b"
 		}
 	],
-	"id" : "TP7::@6890427a1f51a3e7e1df",
+	"id" : "TP2::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -155,6 +159,11 @@
 			{
 				"backtrace" : 2,
 				"fragment" : "libDATA_STRUCTURES.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "libCLOSEST_POINT_PAIR.a",
 				"role" : "libraries"
 			},
 			{
@@ -184,8 +193,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "TP7",
-	"nameOnDisk" : "TP7.exe",
+	"name" : "TP2",
+	"nameOnDisk" : "TP2.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -219,43 +228,43 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP7/ex1.cpp",
+			"path" : "TP2/ex1.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP7/ex2.cpp",
+			"path" : "TP2/ex2.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP7/ex3.cpp",
+			"path" : "TP2/ex3.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP7/ex4.cpp",
+			"path" : "TP2/ex4.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP7/ex5.cpp",
+			"path" : "TP2/ex5.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP7/ex6.cpp",
+			"path" : "TP2/ex6.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP7/ex7.cpp",
+			"path" : "TP2/ex7.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

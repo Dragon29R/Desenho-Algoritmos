@@ -92,11 +92,11 @@
 			[
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googletest/include"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googletest/include"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googletest"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googletest"
 				}
 			],
 			"language" : "CXX",

@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "TP3.exe"
+			"path" : "TP5.exe"
 		},
 		{
-			"path" : "TP3.pdb"
+			"path" : "TP5.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -30,13 +30,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 29,
+				"line" : 31,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 39,
+				"line" : 41,
 				"parent" : 0
 			},
 			{
@@ -76,22 +76,22 @@
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googletest/include"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googletest/include"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googletest"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googletest"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googlemock/include"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googlemock/include"
 				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
-					"path" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googlemock"
+					"path" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googlemock"
 				}
 			],
 			"language" : "CXX",
@@ -113,7 +113,12 @@
 				5,
 				6,
 				7,
-				8
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
 			]
 		}
 	],
@@ -121,7 +126,7 @@
 	[
 		{
 			"backtrace" : 2,
-			"id" : "gtest::@ccedbc95f081fc42d06b"
+			"id" : "DATA_STRUCTURES::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 2,
@@ -133,18 +138,14 @@
 		},
 		{
 			"backtrace" : 2,
+			"id" : "gtest::@ccedbc95f081fc42d06b"
+		},
+		{
+			"backtrace" : 2,
 			"id" : "gtest_main::@ccedbc95f081fc42d06b"
-		},
-		{
-			"backtrace" : 2,
-			"id" : "DATA_STRUCTURES::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 2,
-			"id" : "CLOSEST_POINT_PAIR::@6890427a1f51a3e7e1df"
 		}
 	],
-	"id" : "TP3::@6890427a1f51a3e7e1df",
+	"id" : "TP5::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -160,11 +161,6 @@
 			{
 				"backtrace" : 2,
 				"fragment" : "libDATA_STRUCTURES.a",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "libCLOSEST_POINT_PAIR.a",
 				"role" : "libraries"
 			},
 			{
@@ -194,8 +190,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "TP3",
-	"nameOnDisk" : "TP3.exe",
+	"name" : "TP5",
+	"nameOnDisk" : "TP5.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -215,7 +211,12 @@
 				5,
 				6,
 				7,
-				8
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
 			]
 		}
 	],
@@ -230,49 +231,79 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP3/MSTTestAux.cpp",
+			"path" : "TP5/TestAux.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP3/ex1.cpp",
+			"path" : "TP5/ex1.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP3/ex2.cpp",
+			"path" : "TP5/ex10.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP3/ex3.cpp",
+			"path" : "TP5/ex11.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP3/ex4.cpp",
+			"path" : "TP5/ex12.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP3/ex5.cpp",
+			"path" : "TP5/ex2.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP3/ex6.cpp",
+			"path" : "TP5/ex3.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "TP3/ex7.cpp",
+			"path" : "TP5/ex4.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TP5/ex5.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TP5/ex6.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TP5/ex7.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TP5/ex8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TP5/ex9.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

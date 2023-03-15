@@ -17,7 +17,7 @@
 rule CXX_COMPILER__DATA_STRUCTURES_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -25,7 +25,7 @@ rule CXX_COMPILER__DATA_STRUCTURES_Debug
 # Rule for linking CXX static library.
 
 rule CXX_STATIC_LIBRARY_LINKER__DATA_STRUCTURES_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc $TARGET_FILE $LINK_FLAGS $in && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ranlib.exe" $TARGET_FILE && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc $TARGET_FILE $LINK_FLAGS $in && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ranlib.exe $TARGET_FILE && $POST_BUILD"
   description = Linking CXX static library $TARGET_FILE
   restat = $RESTAT
 
@@ -36,7 +36,7 @@ rule CXX_STATIC_LIBRARY_LINKER__DATA_STRUCTURES_Debug
 rule CXX_COMPILER__CLOSEST_POINT_PAIR_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -44,7 +44,7 @@ rule CXX_COMPILER__CLOSEST_POINT_PAIR_Debug
 # Rule for linking CXX static library.
 
 rule CXX_STATIC_LIBRARY_LINKER__CLOSEST_POINT_PAIR_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc $TARGET_FILE $LINK_FLAGS $in && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ranlib.exe" $TARGET_FILE && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc $TARGET_FILE $LINK_FLAGS $in && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ranlib.exe $TARGET_FILE && $POST_BUILD"
   description = Linking CXX static library $TARGET_FILE
   restat = $RESTAT
 
@@ -55,7 +55,7 @@ rule CXX_STATIC_LIBRARY_LINKER__CLOSEST_POINT_PAIR_Debug
 rule CXX_COMPILER__TP1_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -63,7 +63,7 @@ rule CXX_COMPILER__TP1_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__TP1_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -74,7 +74,7 @@ rule CXX_EXECUTABLE_LINKER__TP1_Debug
 rule CXX_COMPILER__TP2_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -82,7 +82,7 @@ rule CXX_COMPILER__TP2_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__TP2_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -93,7 +93,7 @@ rule CXX_EXECUTABLE_LINKER__TP2_Debug
 rule CXX_COMPILER__TP3_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -101,7 +101,7 @@ rule CXX_COMPILER__TP3_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__TP3_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -112,7 +112,7 @@ rule CXX_EXECUTABLE_LINKER__TP3_Debug
 rule CXX_COMPILER__TP4_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -120,7 +120,7 @@ rule CXX_COMPILER__TP4_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__TP4_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -131,7 +131,7 @@ rule CXX_EXECUTABLE_LINKER__TP4_Debug
 rule CXX_COMPILER__TP5_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -139,7 +139,7 @@ rule CXX_COMPILER__TP5_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__TP5_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -150,7 +150,7 @@ rule CXX_EXECUTABLE_LINKER__TP5_Debug
 rule CXX_COMPILER__TP7_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -158,7 +158,7 @@ rule CXX_COMPILER__TP7_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__TP7_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -177,7 +177,7 @@ rule CUSTOM_COMMAND
 rule CXX_COMPILER__gmock_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -185,7 +185,7 @@ rule CXX_COMPILER__gmock_Debug
 # Rule for linking CXX static library.
 
 rule CXX_STATIC_LIBRARY_LINKER__gmock_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc $TARGET_FILE $LINK_FLAGS $in && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ranlib.exe" $TARGET_FILE && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc $TARGET_FILE $LINK_FLAGS $in && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ranlib.exe $TARGET_FILE && $POST_BUILD"
   description = Linking CXX static library $TARGET_FILE
   restat = $RESTAT
 
@@ -196,7 +196,7 @@ rule CXX_STATIC_LIBRARY_LINKER__gmock_Debug
 rule CXX_COMPILER__gmock_main_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -204,7 +204,7 @@ rule CXX_COMPILER__gmock_main_Debug
 # Rule for linking CXX static library.
 
 rule CXX_STATIC_LIBRARY_LINKER__gmock_main_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc $TARGET_FILE $LINK_FLAGS $in && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ranlib.exe" $TARGET_FILE && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc $TARGET_FILE $LINK_FLAGS $in && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ranlib.exe $TARGET_FILE && $POST_BUILD"
   description = Linking CXX static library $TARGET_FILE
   restat = $RESTAT
 
@@ -215,7 +215,7 @@ rule CXX_STATIC_LIBRARY_LINKER__gmock_main_Debug
 rule CXX_COMPILER__gtest_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -223,7 +223,7 @@ rule CXX_COMPILER__gtest_Debug
 # Rule for linking CXX static library.
 
 rule CXX_STATIC_LIBRARY_LINKER__gtest_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc $TARGET_FILE $LINK_FLAGS $in && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ranlib.exe" $TARGET_FILE && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc $TARGET_FILE $LINK_FLAGS $in && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ranlib.exe $TARGET_FILE && $POST_BUILD"
   description = Linking CXX static library $TARGET_FILE
   restat = $RESTAT
 
@@ -234,7 +234,7 @@ rule CXX_STATIC_LIBRARY_LINKER__gtest_Debug
 rule CXX_COMPILER__gtest_main_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\g++.exe" $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -242,7 +242,7 @@ rule CXX_COMPILER__gtest_main_Debug
 # Rule for linking CXX static library.
 
 rule CXX_STATIC_LIBRARY_LINKER__gtest_main_Debug
-  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ar.exe" qc $TARGET_FILE $LINK_FLAGS $in && "C:\PROGRA~1\JetBrains\CLion 2022.2.4\bin\mingw\bin\ranlib.exe" $TARGET_FILE && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f $TARGET_FILE && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc $TARGET_FILE $LINK_FLAGS $in && C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ranlib.exe $TARGET_FILE && $POST_BUILD"
   description = Linking CXX static library $TARGET_FILE
   restat = $RESTAT
 
@@ -251,7 +251,7 @@ rule CXX_STATIC_LIBRARY_LINKER__gtest_main_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -SC:\Users\Utilizador\Desktop\DA-QuickStart -BC:\Users\Utilizador\Desktop\DA-QuickStart\cmake-build-debug
+  command = "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" --regenerate-during-build -S"C:\Users\user\OneDrive\Ambiente de Trabalho\DA-QuickStart" -B"C:\Users\user\OneDrive\Ambiente de Trabalho\DA-QuickStart\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 
@@ -260,7 +260,7 @@ rule RERUN_CMAKE
 # Rule for re-checking globbed directories.
 
 rule VERIFY_GLOBS
-  command = "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -P C:\Users\Utilizador\Desktop\DA-QuickStart\cmake-build-debug\CMakeFiles\VerifyGlobs.cmake
+  command = "C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -P "C:\Users\user\OneDrive\Ambiente de Trabalho\DA-QuickStart\cmake-build-debug\CMakeFiles\VerifyGlobs.cmake"
   description = Re-checking globbed directories...
   generator = 1
 

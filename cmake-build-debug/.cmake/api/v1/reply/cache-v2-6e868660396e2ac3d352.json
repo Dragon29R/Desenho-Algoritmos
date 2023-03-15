@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug"
+			"value" : "c:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1567,7 +1567,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug"
 		},
 		{
 			"name" : "DA_TP_Classes_IS_TOP_LEVEL",
@@ -1591,7 +1591,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_Python",
@@ -1603,7 +1603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/Users/Utilizador/anaconda3/python.exe][cfound components: Interpreter ][v3.8.8()]"
+			"value" : "[C:/Users/user/anaconda3/python.exe][cfound components: Interpreter ][v3.8.8()]"
 		},
 		{
 			"name" : "INSTALL_GTEST",
@@ -1639,7 +1639,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Utilizador/anaconda3/python.exe"
+			"value" : "C:/Users/user/anaconda3/python.exe"
 		},
 		{
 			"name" : "_Python_INTERPRETER_PROPERTIES",
@@ -1651,7 +1651,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "Python;3;8;8;64;;cp38-win_amd64;C:\\Users\\Utilizador\\anaconda3\\Lib;C:\\Users\\Utilizador\\anaconda3\\Lib;C:\\Users\\Utilizador\\anaconda3\\Lib\\site-packages;C:\\Users\\Utilizador\\anaconda3\\Lib\\site-packages"
+			"value" : "Python;3;8;8;64;;cp38-win_amd64;C:\\Users\\user\\anaconda3\\Lib;C:\\Users\\user\\anaconda3\\Lib;C:\\Users\\user\\anaconda3\\Lib\\site-packages;C:\\Users\\user\\anaconda3\\Lib\\site-packages"
 		},
 		{
 			"name" : "_Python_INTERPRETER_SIGNATURE",
@@ -1663,7 +1663,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "6d9dcadf8d731f00ae37a1faaa1d6dd7"
+			"value" : "a1649ed8a09634183824a3875d2f7fed"
 		},
 		{
 			"name" : "generated_dir",
@@ -1675,7 +1675,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/lib/googletest-master/googletest/generated"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/lib/googletest-master/googletest/generated"
 		},
 		{
 			"name" : "gmock_BINARY_DIR",
@@ -1687,7 +1687,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/lib/googletest-master/googlemock"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/lib/googletest-master/googlemock"
 		},
 		{
 			"name" : "gmock_IS_TOP_LEVEL",
@@ -1723,7 +1723,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googlemock"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googlemock"
 		},
 		{
 			"name" : "gmock_build_tests",
@@ -1763,7 +1763,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/lib/googletest-master"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/lib/googletest-master"
 		},
 		{
 			"name" : "googletest-distribution_IS_TOP_LEVEL",
@@ -1787,7 +1787,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master"
 		},
 		{
 			"name" : "gtest_BINARY_DIR",
@@ -1799,7 +1799,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart/cmake-build-debug/lib/googletest-master/googletest"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/cmake-build-debug/lib/googletest-master/googletest"
 		},
 		{
 			"name" : "gtest_IS_TOP_LEVEL",
@@ -1823,7 +1823,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Utilizador/Desktop/DA-QuickStart/lib/googletest-master/googletest"
+			"value" : "C:/Users/user/OneDrive/Ambiente de Trabalho/DA-QuickStart/lib/googletest-master/googletest"
 		},
 		{
 			"name" : "gtest_build_samples",
